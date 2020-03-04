@@ -1,5 +1,4 @@
 # Jercey City- Citi Bike Analytics
- Citi-Bike-Analytics-NYC
 
 ## Background
 
