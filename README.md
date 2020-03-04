@@ -33,9 +33,10 @@ And due to the fact that more and more registered users joined from 2017-2019(Ci
 
 **Phenomenon 3. Popular Stations Analysis**
 
-![Popular-Stations-2017](Images/Popular-Stations-2017.PNG) [Popular-Stations-2018](Images/Popular-Stations-2018.PNG) [Popular-Stations-2019](Images/Popular-Stations-2019.PNG)
-
-![Popular-Stations-Bar](Images/Popular-Stations-Bar-Chart)
+![Popular-Stations-2017](Images/Popular-Stations-2017.PNG) 
+![Popular-Stations-2018](Images/Popular-Stations-2018.PNG) 
+![Popular-Stations-2019](Images/Popular-Stations-2019.PNG)
+![Popular-Stations-Bar](Images/Popular-Stations-Bar-Chart.PNG)
 
 For this analysis, there are two dashboards, one is the station distribution on the map, the other is the bar charts listing all stations. From the distribution map, we can see that from year 2017 to 2019, the most popular starting and ending stations have not been changed too much. The most popular station was Grove St PATH for both the starting and ending stations. However, the top 10 starting and ending stations changed slightly. Exchange Place station decreased dramatically in year 2019, while Marin Light Rail station, Washington St station, Journal Square station and Harborside station started to grow. 
 
@@ -43,7 +44,7 @@ Also, from the top 10 starting and ending stations listed, we can see that a lar
 
 Stations along the coastline got more popular through the three years as well. People tended to spent more time for breaks and enjoying their life.
 
-**User Phenomenon 4. User Type and Gender for Each Year**
+**Phenomenon 4. User Type and Gender for Each Year**
 
 ![Typer-Gender](Images/User-Type-and-Gender.PNG)
 
@@ -54,3 +55,9 @@ While it was increasing, the number of causal customers didn't increase very muc
 From 2017 to 2018, Citi Bike program was really popular and the number of subscribers increased by 20%. From 2018 to 2019, the rate decreased to 11%.
 
 Not to mention that in year 2019, the percentage increase of subscribers declined while the percentage increase of daily customers climbed heavily. As this program was getting more and more popular, visitors to this city tended to ride bikes along with their trips.
+
+**Bike ID Analysis**
+
+![BikeID-Analysis](Images/BikeID-Analysis.PNG)
+
+In the graph above, it shows all bikes' usage across the 3 years. Each circle represents an individual bike, the bigger and darker the circle, the more frequently the bike was used. we can see that not all the bikes were used evenly, in the middle of this graph, there are a cluster of really small circles/bikes, these bikes were used for only several times during this 3 years. this may due to the fact that some bike needed to be maintained and repaired. Also, some of these bikes may just be permanently damaged or even stolen/lost during its service. Or, it is because that some of these bikes stayed in the not really popular stations and hence were not put into use everyday.
